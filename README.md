@@ -42,3 +42,41 @@ This is a simple Python-based quiz game to test your knowledge about computer ha
 
   You got 4 questions correct!
   You got 100.0%
+
+# 🎯2. Guess the Number Game
+
+This is a simple number guessing game written in Python. The computer randomly chooses a number between 0 and the user-defined upper limit. The player then tries to guess the number with hints along the way!
+
+## 📌 Features
+
+- Asks the user to enter the maximum number range
+- Generates a random number in that range
+- Validates user input
+- Gives hints: "above" or "below" the target
+- Displays total number of guesses when the user wins
+
+## 🧠 How to Play
+
+1. Run the Python file.
+2. Enter a positive number as the upper range.
+3. Try to guess the number selected by the computer.
+4. Keep guessing until you get it right!
+5. The program tells you how many attempts you took.
+
+## 📦 Example
+  Type a number: 20
+  Make a guess: 10
+  You were below the number!
+  Make a guess: 15
+  You were above the number!
+  Make a guess: 13
+  You got it!
+  You got it in 3 guesses!
+
+## 🚀 How to Run
+
+```bash
+python guess_the_number.py
+
+
+
