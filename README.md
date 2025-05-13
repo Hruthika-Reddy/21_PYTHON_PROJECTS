@@ -76,7 +76,7 @@ This is a simple number guessing game written in Python. The computer randomly c
 ## 🚀 How to Run
 
 ```bash
-python guess_the_number.py
+python number_guesser.py
 
 
 
