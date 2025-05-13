@@ -4,6 +4,19 @@ Welcome to my personal Python project repository! This series contains 21 beginn
 
 ---
 
+## 📥 How to Clone This Repository
+
+To get started with all the projects:
+
+```bash
+git clone https://github.com/Hruthika-Reddy/21_PYTHON_PROJECTS.git
+cd 21_PYTHON_PROJECTS
+```
+
+Make sure you have Python 3 installed to run the projects.
+
+---
+
 ## 📌 Projects Completed
 
 ### ✅ 1. Computer Quiz Game
