@@ -125,6 +125,33 @@ Goodbye!
 
 ---
 
+### ✅ 4. Text Adventure Game
+
+A simple interactive text-based adventure game where your decisions shape the story's outcome. The player navigates choices like going left or right, swimming or walking, and talking or ignoring strangers — with win/lose consequences.
+
+#### 🚀 Features:
+- User-driven branching story.
+- Decision-making with multiple outcomes.
+- Game-ending messages based on choices.
+
+#### ▶️ How to Run:
+```bash
+python choose_your_own_adventure.py
+```
+
+#### 📸 Sample Output:
+```
+Type your name: Hruthika
+Welcome Hruthika to this adventure!
+You are on a dirt road, it has come to an end and you wanna go left or right. Which way would you like to go? right
+You come to a bridge, it looks wobbly, do you want to cross it or head back (cross/back)? cross
+You cross the bridge and meet a stranger. Do you talk to them (yes/no)? yes
+You talk to the stranger and they give you gold. You WIN!
+Thank you for trying! Hruthika
+```
+
+---
+
 ## 🧠 Technologies Used
 
 - Python 3
@@ -140,7 +167,8 @@ Goodbye!
 | 1   | Computer Quiz Game                | ✅ Done |
 | 2   | Guess the Number Game             | ✅ Done |
 | 3   | Rock Paper Scissors               | ✅ Done |
-| 4   | _Coming Soon..._                  | ⏳      |
+| 4   | Text Adventure Game               | ✅ Done |
+| 5   | _Coming Soon..._                  | ⏳      |
 | ... | ...                               |         |
 | 21  | _Coming Soon..._                  | ⏳      |
 
